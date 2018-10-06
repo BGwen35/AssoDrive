@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -75,6 +78,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AssoDriverBLL\AssoDriverBLL.csproj">
+      <Project>{02ba7ac9-4c3b-4097-ae0a-8a766cfad3f3}</Project>
+      <Name>AssoDriverBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AssoDriverObjects\AssoDriverObjects.csproj">
+      <Project>{638ad0b9-af45-4159-9e39-91dbfc68aa7d}</Project>
+      <Name>AssoDriverObjects</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

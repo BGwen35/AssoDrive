@@ -1,0 +1,10 @@
+C:\GIT\AssoDrive\AssoDrive\AssoDriver\bin\Debug\AssoDriver.exe.config
+C:\GIT\AssoDrive\AssoDrive\AssoDriver\bin\Debug\AssoDriver.exe
+C:\GIT\AssoDrive\AssoDrive\AssoDriver\bin\Debug\AssoDriver.pdb
+C:\GIT\AssoDrive\AssoDrive\AssoDriver\obj\Debug\AssoDriver.csprojAssemblyReference.cache
+C:\GIT\AssoDrive\AssoDrive\AssoDriver\obj\Debug\AssoDriver.Form1.resources
+C:\GIT\AssoDrive\AssoDrive\AssoDriver\obj\Debug\AssoDriver.Properties.Resources.resources
+C:\GIT\AssoDrive\AssoDrive\AssoDriver\obj\Debug\AssoDriver.csproj.GenerateResource.cache
+C:\GIT\AssoDrive\AssoDrive\AssoDriver\obj\Debug\AssoDriver.csproj.CoreCompileInputs.cache
+C:\GIT\AssoDrive\AssoDrive\AssoDriver\obj\Debug\AssoDriver.exe
+C:\GIT\AssoDrive\AssoDrive\AssoDriver\obj\Debug\AssoDriver.pdb
